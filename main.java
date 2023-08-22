@@ -7,6 +7,7 @@ public class main {
         System.out.println("Nice to meet you");
 
         System.out.println("Whats your name?");
+        System.out.println("How old are you?");
 
     }
 }
