@@ -8,6 +8,10 @@ public class main {
 
         System.out.println("Whats your name?");
         System.out.println("How old are you?");
+
         System.out.println("Bye!");
+
+        System.out.println("Where are u from?");
+
     }
 }
